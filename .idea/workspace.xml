@@ -216,7 +216,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675441566559</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Program do eksploracji wczytanego pliku csv">
+      <created>1675441805336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441805336</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Program do eksploracji wczytanego pliku csv&#10;&#10;Signed-off-by: MagdaPlucinska &lt;magda.plucinska731@gmail.com&gt;">
+      <created>1675441989786</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441989786</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
