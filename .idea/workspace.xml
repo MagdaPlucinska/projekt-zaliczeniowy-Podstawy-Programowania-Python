@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8523c43-7610-4c49-bc0c-9faeaf4ad11e" name="Changes" comment="Program do eksploracji wczytanego pliku csv" />
+    <list default="true" id="f8523c43-7610-4c49-bc0c-9faeaf4ad11e" name="Changes" comment="Program do eksploracji wczytanego pliku csv&#10;&#10;Signed-off-by: MagdaPlucinska &lt;magda.plucinska731@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +195,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675435681834</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Program do eksploracji wczytanego pliku csv">
+      <created>1675441365799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441365800</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Program do eksploracji wczytanego pliku csv">
+      <created>1675441386926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441386926</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Program do eksploracji wczytanego pliku csv&#10;&#10;Signed-off-by: MagdaPlucinska &lt;magda.plucinska731@gmail.com&gt;">
+      <created>1675441566559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675441566559</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +269,7 @@
     <MESSAGE value="Projekt zaliczeniowy" />
     <MESSAGE value="Program do eksploaracji wczytanego pliku" />
     <MESSAGE value="Program do eksploracji wczytanego pliku csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program do eksploracji wczytanego pliku csv" />
+    <MESSAGE value="Program do eksploracji wczytanego pliku csv&#10;&#10;Signed-off-by: MagdaPlucinska &lt;magda.plucinska731@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program do eksploracji wczytanego pliku csv&#10;&#10;Signed-off-by: MagdaPlucinska &lt;magda.plucinska731@gmail.com&gt;" />
   </component>
 </project>
